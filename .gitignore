@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+Debug/OpenGL_Core.ilk
+.vs/OpenGL_Core/v15/.suo
+.vs/OpenGL_Core/v15/Browse.VC.db
+*.pdb
+*.tlog
+*.ilk
+*.idb
