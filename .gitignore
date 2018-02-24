@@ -24,15 +24,16 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
-Debug/OpenGL_Core.ilk
-.vs/OpenGL_Core/v15/.suo
-.vs/OpenGL_Core/v15/Browse.VC.db
+Debug/
+OpenGL_Core/Debug/
+OpenGL_Core/x64/
+x64/
+.vs/
 *.pdb
 *.tlog
 *.ilk

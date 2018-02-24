@@ -1,4 +1,2 @@
-﻿  glad.c
-  Main.cpp
-LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+﻿LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
   OpenGL_Core.vcxproj -> C:\Users\rphil\Desktop\opengl_test\Learn_OpenGL\x64\Debug\OpenGL_Core.exe
